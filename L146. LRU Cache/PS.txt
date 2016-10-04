@@ -1,0 +1,11 @@
+要順序性
+要insert
+find
+erase
+改變順序
+都是O(1)
+
+用
+list<pair<key, value>>
+unordered_map<key, list<pair<key,value>>::iterator>
+搭配服用

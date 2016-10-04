@@ -1,0 +1,2 @@
+sort!!!! quick sort不能用!
+因為此sort應該不是stable sort
